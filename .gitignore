@@ -4,3 +4,7 @@ __pycache__/
 .pytest_cache/
 output/*
 !output/.gitkeep
+
+# Listas locales de cartas
+config/wanted-card-lists.yaml
+config/sale-card-lists.yaml
